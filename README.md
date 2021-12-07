@@ -4,7 +4,7 @@ Made with Node.js
 
 Create a .env file to store your MongoDB database credentials
 
-MONGODB_URI = mongodb+srv://<username>:<password>@cluster0.6m5cz.mongodb.net/Recipes?retryWrites=true&w=majority
+MONGODB_URI = mongodb+srv://<username>:<password> @cluster0.6m5cz.mongodb.net/Recipes?retryWrites=true&w=majority
 Installation
 
 
