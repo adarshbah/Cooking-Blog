@@ -9,7 +9,7 @@
 
 
 # Cooking-Blog
-Made with Node.js
+Made with Node.js Express and MongoDB
 
 
 Create a .env file to store your MongoDB database credentials
